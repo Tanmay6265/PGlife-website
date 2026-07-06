@@ -1,8 +1,7 @@
 #PGlife# 
 
 
-Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment on your web server. Please follow the instructions below for a seamless experience:
-Step 2: Get the Essential Components
+Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment
 
 To get started, you'll need two crucial components:
 
